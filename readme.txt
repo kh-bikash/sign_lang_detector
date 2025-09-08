@@ -4,7 +4,7 @@ A real-time American Sign Language (ASL) letter translator that uses your webcam
 Live Demo
 (It's highly recommended to record a short GIF of your application in action and place it here. This is the best way to showcase your project!)
 
-[Your GIF demonstrating the translator in action]
+![Screenshot](https://github.com/kh-bikash/sign_lang_detector/raw/6120f84102a6d20bfce6231046ded2ae78372b46/a11.png)
 
 Features
 Real-Time Hand Tracking: Utilizes Google's MediaPipe to automatically detect and track your hand anywhere in the frame.
