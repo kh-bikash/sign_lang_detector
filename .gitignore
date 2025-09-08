@@ -1,0 +1,14 @@
+Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Virtual Environment
+venv/
+/venv
+*.env
+.env
+
+Temporary files
+*.mp3
